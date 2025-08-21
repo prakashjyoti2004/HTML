@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+}
+body
+table{
+    font-size   : 14px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    border: 2px solid black;
+}
+th, td{
+    border: 1px solid black;
+    padding: 10px;
+}
